@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp_NetCore_WebAppReact", "CSharp_NetCore_WebAppReact\CSharp_NetCore_WebAppReact.csproj", "{F7FDF336-6411-4D6D-BA04-A7CBB015F8C5}"
-EndProject
 Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "VB_NetCore_ClassLibrary", "VB_NetCore_ClassLibrary\VB_NetCore_ClassLibrary.vbproj", "{04B3C608-B4B4-4C4D-882A-34ACB20A5068}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cpp_OldStyleProject_ConsoleApp", "Cpp_OldStyleProject_ConsoleApp\Cpp_OldStyleProject_ConsoleApp.vcxproj", "{1F314160-48DC-49C2-82BD-9F64CB253748}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp_SDKStyleProject_UnitTest", "CSharp_SDKStyleProject_UnitTest\CSharp_SDKStyleProject_UnitTest.csproj", "{666B27E7-5F64-4674-B51B-06698B827488}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Taint_CSharp_NetCore_WebAppReact", "Taint_CSharp_NetCore_WebAppReact\Taint_CSharp_NetCore_WebAppReact.csproj", "{3FB940F6-EA76-4B0A-A70A-B399F6E973C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,18 +21,6 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F7FDF336-6411-4D6D-BA04-A7CBB015F8C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F7FDF336-6411-4D6D-BA04-A7CBB015F8C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F7FDF336-6411-4D6D-BA04-A7CBB015F8C5}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{F7FDF336-6411-4D6D-BA04-A7CBB015F8C5}.Debug|x64.Build.0 = Debug|Any CPU
-		{F7FDF336-6411-4D6D-BA04-A7CBB015F8C5}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{F7FDF336-6411-4D6D-BA04-A7CBB015F8C5}.Debug|x86.Build.0 = Debug|Any CPU
-		{F7FDF336-6411-4D6D-BA04-A7CBB015F8C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F7FDF336-6411-4D6D-BA04-A7CBB015F8C5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F7FDF336-6411-4D6D-BA04-A7CBB015F8C5}.Release|x64.ActiveCfg = Release|Any CPU
-		{F7FDF336-6411-4D6D-BA04-A7CBB015F8C5}.Release|x64.Build.0 = Release|Any CPU
-		{F7FDF336-6411-4D6D-BA04-A7CBB015F8C5}.Release|x86.ActiveCfg = Release|Any CPU
-		{F7FDF336-6411-4D6D-BA04-A7CBB015F8C5}.Release|x86.Build.0 = Release|Any CPU
 		{04B3C608-B4B4-4C4D-882A-34ACB20A5068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{04B3C608-B4B4-4C4D-882A-34ACB20A5068}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04B3C608-B4B4-4C4D-882A-34ACB20A5068}.Debug|x64.ActiveCfg = Debug|Any CPU
@@ -68,6 +56,18 @@ Global
 		{666B27E7-5F64-4674-B51B-06698B827488}.Release|x64.Build.0 = Release|Any CPU
 		{666B27E7-5F64-4674-B51B-06698B827488}.Release|x86.ActiveCfg = Release|Any CPU
 		{666B27E7-5F64-4674-B51B-06698B827488}.Release|x86.Build.0 = Release|Any CPU
+		{3FB940F6-EA76-4B0A-A70A-B399F6E973C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FB940F6-EA76-4B0A-A70A-B399F6E973C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FB940F6-EA76-4B0A-A70A-B399F6E973C9}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3FB940F6-EA76-4B0A-A70A-B399F6E973C9}.Debug|x64.Build.0 = Debug|Any CPU
+		{3FB940F6-EA76-4B0A-A70A-B399F6E973C9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3FB940F6-EA76-4B0A-A70A-B399F6E973C9}.Debug|x86.Build.0 = Debug|Any CPU
+		{3FB940F6-EA76-4B0A-A70A-B399F6E973C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FB940F6-EA76-4B0A-A70A-B399F6E973C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FB940F6-EA76-4B0A-A70A-B399F6E973C9}.Release|x64.ActiveCfg = Release|Any CPU
+		{3FB940F6-EA76-4B0A-A70A-B399F6E973C9}.Release|x64.Build.0 = Release|Any CPU
+		{3FB940F6-EA76-4B0A-A70A-B399F6E973C9}.Release|x86.ActiveCfg = Release|Any CPU
+		{3FB940F6-EA76-4B0A-A70A-B399F6E973C9}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
