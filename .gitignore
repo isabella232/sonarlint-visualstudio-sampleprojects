@@ -4,6 +4,8 @@
 
 
 /**/*.vcxproj.user
+/**/obj
+/**/bin
 /**/*.db
 /**/*.opendb
 /**/ipch/*
