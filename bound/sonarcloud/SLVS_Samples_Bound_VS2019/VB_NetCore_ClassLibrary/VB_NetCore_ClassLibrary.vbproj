@@ -3,6 +3,11 @@
   <PropertyGroup>
     <RootNamespace>VB_NetCore_ClassLibrary</RootNamespace>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <CodeAnalysisRuleSet>..\.sonarlint\slvs_samples_bound_vs2019vb.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
+
+  <ItemGroup>
+    <AdditionalFiles Include="..\.sonarlint\slvs_samples_bound_vs2019\VB\SonarLint.xml" Link="SonarLint.xml" />
+  </ItemGroup>
 
 </Project>
