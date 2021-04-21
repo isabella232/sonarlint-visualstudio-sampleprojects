@@ -16,3 +16,12 @@ export class Layout extends Component {
     );
   }
 }
+
+
+function alwaysTrue() {
+
+  if (true) {
+    return true;
+  }
+  return true;
+}
