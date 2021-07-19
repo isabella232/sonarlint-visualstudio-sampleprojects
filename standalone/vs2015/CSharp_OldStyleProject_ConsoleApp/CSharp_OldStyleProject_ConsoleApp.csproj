@@ -48,6 +48,14 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="ts\tsconfig.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="js\CognitiveComplexity.js" />
+    <Content Include="js\Script1.js" />
+  </ItemGroup>
+  <ItemGroup>
+    <TypeScriptCompile Include="ts\CognitiveComplexity.ts" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
