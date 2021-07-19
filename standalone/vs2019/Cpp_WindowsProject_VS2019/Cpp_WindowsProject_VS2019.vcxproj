@@ -149,6 +149,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="BugRepros\Bug2276_MixedLineEndings.cpp" />
     <ClCompile Include="Cpp_WindowsProject_VS2019.cpp" />
     <ClCompile Include="SecondaryLocs\TicTacToe.cpp" />
   </ItemGroup>

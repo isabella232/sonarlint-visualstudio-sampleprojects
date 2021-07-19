@@ -47,6 +47,9 @@
     <ClCompile Include="SecondaryLocs\TicTacToe.cpp">
       <Filter>SecondaryLocs</Filter>
     </ClCompile>
+    <ClCompile Include="BugRepros\Bug2276_MixedLineEndings.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Cpp_Win32Project_VS2015.rc">

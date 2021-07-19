@@ -12,4 +12,7 @@
 /**/.vs/
 /**/*.sonarqube
 /**/build_wrapper_output
-/standalone
+/standalone/vs2015/.sonarlint
+/standalone/vs2017/.sonarlint
+/standalone/vs2019/.sonarlint
+/**/*.csproj.user
