@@ -16,3 +16,5 @@
 /standalone/vs2017/.sonarlint
 /standalone/vs2019/.sonarlint
 /**/*.csproj.user
+/standalone/vs2019/CMake/VS2019_CMakeProject1/out/
+/standalone/vs2017/CMake/VS2017_CMakeProject1/out/
