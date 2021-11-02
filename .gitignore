@@ -23,3 +23,5 @@
 /standalone/vs2017/CMake/VS2019_CMakeProject1/.sonarlint
 /standalone/vs2017/CMake/VS2022_CMakeProject1/.sonarlint
 
+/standalone/vs2022/NormalSolution/x64/Debug
+/standalone/vs2022/NormalSolution/Cpp_WindowsProject_VS2022/x64/Debug
