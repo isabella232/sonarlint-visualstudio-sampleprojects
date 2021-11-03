@@ -25,3 +25,5 @@
 
 /standalone/vs2022/NormalSolution/x64/Debug
 /standalone/vs2022/NormalSolution/Cpp_WindowsProject_VS2022/x64/Debug
+/standalone/vs2019/NormalSolution/VB_OldStyleProject_ClassLibrary/VB_OldStyleProject_ClassLibrary.vbproj.user
+/standalone/vs2022/NormalSolution/VB_OldStyleProject_ClassLibrary/VB_OldStyleProject_ClassLibrary.vbproj.user

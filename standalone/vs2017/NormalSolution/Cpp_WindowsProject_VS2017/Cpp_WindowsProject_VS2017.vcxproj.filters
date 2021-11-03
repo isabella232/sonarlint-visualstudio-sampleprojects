@@ -44,6 +44,9 @@
     <ClCompile Include="BugRepros\Bug2276_MixedLineEndings.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Source files\v6_27_S6200.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Cpp_WindowsProject_VS2017.rc">
@@ -62,5 +65,8 @@
     <None Include="JavaScript\JavaScript1.js">
       <Filter>Javascript</Filter>
     </None>
+    <None Include="JavaScript\CognitiveComplexity.js" />
+    <None Include="ts\CognitiveComplexity.ts" />
+    <None Include="ts\tsconfig.json" />
   </ItemGroup>
 </Project>
