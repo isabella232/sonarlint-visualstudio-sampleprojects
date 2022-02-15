@@ -142,6 +142,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Cpp_OldStyleProject_ConsoleApp.cpp" />
+    <ClCompile Include="QuickFixes.cpp" />
     <ClCompile Include="SecondaryLocations\TicTacToe.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

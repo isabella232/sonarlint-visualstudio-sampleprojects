@@ -162,6 +162,7 @@
     <ClCompile Include="BugRepros\Bug2276_MixedLineEndings.cpp" />
     <ClCompile Include="Cpp_WindowsProject_VS2017.cpp" />
     <ClCompile Include="SecondaryLocs\TicTacToe.cpp" />
+    <ClCompile Include="Source files\QuickFixes.cpp" />
     <ClCompile Include="Source files\v6_27_S6200.cpp" />
   </ItemGroup>
   <ItemGroup>

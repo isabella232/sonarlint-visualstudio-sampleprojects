@@ -151,6 +151,7 @@
   <ItemGroup>
     <ClCompile Include="BugRepros\Bug2276_MixedLineEndings.cpp" />
     <ClCompile Include="Cpp_WindowsProject_VS2019.cpp" />
+    <ClCompile Include="QuickFixes.cpp" />
     <ClCompile Include="SecondaryLocs\TicTacToe.cpp" />
     <ClCompile Include="v6_27_S6200.cpp" />
   </ItemGroup>
