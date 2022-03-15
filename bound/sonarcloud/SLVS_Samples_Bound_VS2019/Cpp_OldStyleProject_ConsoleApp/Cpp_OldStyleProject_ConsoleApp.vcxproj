@@ -144,6 +144,8 @@
     <ClCompile Include="Cpp_OldStyleProject_ConsoleApp.cpp" />
     <ClCompile Include="QuickFixes.cpp" />
     <ClCompile Include="SecondaryLocations\TicTacToe.cpp" />
+    <ClCompile Include="Suppressions\Suppressions1.cpp" />
+    <ClCompile Include="Suppressions\Suppressions2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -38,12 +38,6 @@
     <ClCompile Include="QuickFixes.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Suppressions1.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Suppressions2.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Cpp_WindowsProject_VS2022.rc">
