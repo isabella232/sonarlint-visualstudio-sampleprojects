@@ -148,6 +148,8 @@
     <ClCompile Include="Cpp_WindowsProject_VS2022.cpp" />
     <ClCompile Include="QuickFixes.cpp" />
     <ClCompile Include="SecondaryLocs\TicTacToe.cpp" />
+    <ClCompile Include="Suppressions1.cpp" />
+    <ClCompile Include="Suppressions2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Cpp_WindowsProject_VS2022.rc" />

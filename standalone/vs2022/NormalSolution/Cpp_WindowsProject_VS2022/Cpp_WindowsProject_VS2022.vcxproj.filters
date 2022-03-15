@@ -35,10 +35,13 @@
     <ClCompile Include="SecondaryLocs\TicTacToe.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="v6_27_S6200.cpp">
+    <ClCompile Include="QuickFixes.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="QuickFixes.cpp">
+    <ClCompile Include="Suppressions1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Suppressions2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
