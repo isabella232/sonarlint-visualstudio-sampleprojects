@@ -10,7 +10,7 @@ class DerivedException2 : public BaseException { };
 * * Replace by a type-alias syntax
 */
 typedef int x1; 
-int main()
+int calc()
 {
 	/*
 	* Expected Fixes
