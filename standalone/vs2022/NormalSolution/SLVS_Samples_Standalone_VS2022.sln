@@ -9,6 +9,11 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VB_OldStyleProject_ClassLib
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cpp_WindowsProject_VS2022", "Cpp_WindowsProject_VS2022\Cpp_WindowsProject_VS2022.vcxproj", "{86CCAE7A-09F0-4512-8894-DD5C37381487}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4C52E950-7D66-4E9D-B57D-4A8C53507166}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Secrets.txt = ..\..\..\Secrets.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
