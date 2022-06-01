@@ -142,6 +142,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Cpp_OldStyleProject_ConsoleApp.cpp" />
+    <ClCompile Include="LegacyRuleKeys.cpp" />
     <ClCompile Include="QuickFixes.cpp" />
     <ClCompile Include="SecondaryLocations\TicTacToe.cpp" />
     <ClCompile Include="Suppressions\Suppressions1.cpp" />
