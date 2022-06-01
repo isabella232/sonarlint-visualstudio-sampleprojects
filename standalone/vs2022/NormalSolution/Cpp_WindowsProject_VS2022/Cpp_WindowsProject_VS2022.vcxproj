@@ -146,6 +146,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Cpp_WindowsProject_VS2022.cpp" />
+    <ClCompile Include="LegacyRuleKeys.cpp" />
     <ClCompile Include="QuickFixes.cpp" />
     <ClCompile Include="SecondaryLocs\TicTacToe.cpp" />
   </ItemGroup>

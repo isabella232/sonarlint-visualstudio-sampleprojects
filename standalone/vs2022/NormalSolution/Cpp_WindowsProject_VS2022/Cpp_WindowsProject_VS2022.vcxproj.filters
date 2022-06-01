@@ -38,6 +38,9 @@
     <ClCompile Include="QuickFixes.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="LegacyRuleKeys.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Cpp_WindowsProject_VS2022.rc">
